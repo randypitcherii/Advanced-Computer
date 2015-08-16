@@ -17,6 +17,10 @@
     margin: 0;
 }
 
+.upperCushion {
+    margin-top: 10px;
+}
+
 html {
     overflow-x: hidden;
 }
