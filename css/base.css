@@ -1,2 +1,22 @@
-#googleMap {
+.googleMap {
+    height: 50vh;
+    width: 80%;
+}
+
+.makeOpaque {
+    opacity: 0.95;
+}
+
+.imageBanner {
+    height: 300px;
+}
+
+.imageSource {
+    width: 99vw;
+    height: 300px;
+    margin: 0;
+}
+
+html {
+    overflow-x: hidden;
 }
